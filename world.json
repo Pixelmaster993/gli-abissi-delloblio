@@ -1,0 +1,15 @@
+{
+  "title": "Gli Abissi dell’Oblio",
+  "id": "gli-abissi-delloblio",
+  "system": "dnd5e",
+  "joinTheme": "default",
+  "description": "<p><span>In un mondo dove la magia è in bilico tra ordine e caos, un gruppo di avventurieri si trova al centro di un conflitto epico. Guidati dal destino e spinti dalla curiosità, questi eroi dovranno affrontare creature leggendarie, superare sfide impossibili e svelare i segreti di un multiverso in continuo mutamento.</span></p><p><span>Quando un antico male minaccia di distruggere l'equilibrio tra i piani, solo i più coraggiosi potranno sperare di salvare il mondo. Con il potere di piegare la fortuna e controllare il caos, i nostri eroi dovranno unire le forze per sconfiggere nemici terribili e recuperare artefatti di incommensurabile potere.</span></p><p><span>Dalle foreste incantate alle città sotterranee, dalle montagne innevate ai deserti infuocati, l'avventura li porterà in luoghi mai visti prima, dove ogni decisione può cambiare il corso della storia. In questo viaggio epico, affronteranno draghi, maghi oscuri e antichi dei, imparando che il vero potere risiede nel coraggio e nell'amicizia.</span></p>",
+  "coreVersion": "12.331",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "systemVersion": "4.3.5",
+  "lastPlayed": "Sun Mar 02 2025 17:31:44 GMT+0100 (GMT+01:00)",
+  "playtime": 438
+}
