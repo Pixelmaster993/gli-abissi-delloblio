@@ -1,0 +1,8 @@
+2025/03/02-18:13:46.028 3350 Recovering log #24
+2025/03/02-18:13:46.033 3350 Delete type=0 #24
+2025/03/02-18:13:46.033 3350 Delete type=3 #22
+2025/03/02-18:34:06.448 1b4c Level-0 table #29: started
+2025/03/02-18:34:06.448 1b4c Level-0 table #29: 0 bytes OK
+2025/03/02-18:34:06.453 1b4c Delete type=0 #27
+2025/03/02-18:34:06.472 1b4c Manual compaction at level-0 from '!messages!4NIbZAuCEWuNNKyo' @ 72057594037927935 : 1 .. '!messages!4NIbZAuCEWuNNKyo' @ 0 : 0; will stop at (end)
+2025/03/02-18:34:06.472 1b4c Manual compaction at level-1 from '!messages!4NIbZAuCEWuNNKyo' @ 72057594037927935 : 1 .. '!messages!4NIbZAuCEWuNNKyo' @ 0 : 0; will stop at (end)
