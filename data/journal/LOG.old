@@ -1,23 +1,7 @@
-2025/03/02-19:18:49.076 d18 Recovering log #31
-2025/03/02-19:18:49.076 d18 Level-0 table #33: started
-2025/03/02-19:18:49.092 d18 Level-0 table #33: 3937 bytes OK
-2025/03/02-19:18:49.099 d18 Delete type=0 #31
-2025/03/02-19:18:49.099 d18 Delete type=3 #30
-2025/03/02-19:24:03.926 5438 Level-0 table #36: started
-2025/03/02-19:24:03.926 5438 Level-0 table #36: 0 bytes OK
-2025/03/02-19:24:03.928 5438 Delete type=0 #34
-2025/03/02-19:24:03.957 5438 Manual compaction at level-0 from '!journal!mMtIrz2LLxihE69x' @ 72057594037927935 : 1 .. '!journal!z3pufkkMVwy8Drqr' @ 0 : 0; will stop at '!journal!z3pufkkMVwy8Drqr' @ 26 : 1
-2025/03/02-19:24:03.957 5438 Compacting 1@0 + 0@1 files
-2025/03/02-19:24:03.968 5438 Generated table #37@0: 2 keys, 1276 bytes
-2025/03/02-19:24:03.970 5438 Compacted 1@0 + 0@1 files => 1276 bytes
-2025/03/02-19:24:03.971 5438 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/03/02-19:24:03.972 5438 Delete type=2 #33
-2025/03/02-19:24:03.972 5438 Manual compaction at level-0 from '!journal!z3pufkkMVwy8Drqr' @ 26 : 1 .. '!journal!z3pufkkMVwy8Drqr' @ 0 : 0; will stop at (end)
-2025/03/02-19:24:03.998 5438 Manual compaction at level-1 from '!journal!mMtIrz2LLxihE69x' @ 72057594037927935 : 1 .. '!journal!z3pufkkMVwy8Drqr' @ 0 : 0; will stop at '!journal!z3pufkkMVwy8Drqr' @ 35 : 1
-2025/03/02-19:24:03.998 5438 Compacting 1@1 + 1@2 files
-2025/03/02-19:24:04.014 5438 Generated table #38@1: 2 keys, 1385 bytes
-2025/03/02-19:24:04.014 5438 Compacted 1@1 + 1@2 files => 1385 bytes
-2025/03/02-19:24:04.017 5438 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/03/02-19:24:04.017 5438 Delete type=2 #29
-2025/03/02-19:24:04.017 5438 Delete type=2 #37
-2025/03/02-19:24:04.036 5438 Manual compaction at level-1 from '!journal!z3pufkkMVwy8Drqr' @ 35 : 1 .. '!journal!z3pufkkMVwy8Drqr' @ 0 : 0; will stop at (end)
+2025/03/03-11:29:15.218 2bf8 Recovering log #49
+2025/03/03-11:29:15.234 2bf8 Delete type=0 #49
+2025/03/03-11:29:15.236 2bf8 Delete type=3 #47
+2025/03/03-11:29:50.287 1c50 Level-0 table #55: started
+2025/03/03-11:29:50.287 1c50 Level-0 table #55: 0 bytes OK
+2025/03/03-11:29:50.291 1c50 Delete type=0 #53
+2025/03/03-11:29:50.309 1c50 Manual compaction at level-0 from '!journal!8eAQ6IDe4MNqkBua' @ 72057594037927935 : 1 .. '!journal.pages!8eAQ6IDe4MNqkBua.F0WxHKJtFXgL0Bs6' @ 0 : 0; will stop at (end)

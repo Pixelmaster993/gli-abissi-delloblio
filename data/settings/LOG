@@ -1,15 +1,14 @@
-2025/03/02-19:26:05.087 5380 Recovering log #41
-2025/03/02-19:26:05.092 5380 Delete type=0 #41
-2025/03/02-19:26:05.092 5380 Delete type=3 #38
-2025/03/02-20:03:55.948 5438 Level-0 table #48: started
-2025/03/02-20:03:55.954 5438 Level-0 table #48: 147453 bytes OK
-2025/03/02-20:03:55.955 5438 Delete type=0 #46
-2025/03/02-20:03:55.956 5438 Manual compaction at level-0 from '!settings!1D20OqCBdZHubsIO' @ 72057594037927935 : 1 .. '!settings!t5zRloq074qA1vsH' @ 0 : 0; will stop at (end)
-2025/03/02-20:03:55.956 5438 Manual compaction at level-1 from '!settings!1D20OqCBdZHubsIO' @ 72057594037927935 : 1 .. '!settings!t5zRloq074qA1vsH' @ 0 : 0; will stop at '!settings!m8WnUQLtE1Q3Wlz9' @ 58 : 1
-2025/03/02-20:03:55.956 5438 Compacting 1@1 + 1@2 files
-2025/03/02-20:03:55.963 5438 Generated table #49@1: 17 keys, 6890 bytes
-2025/03/02-20:03:55.963 5438 Compacted 1@1 + 1@2 files => 6890 bytes
-2025/03/02-20:03:55.966 5438 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/03/02-20:03:55.966 5438 Delete type=2 #44
-2025/03/02-20:03:55.966 5438 Delete type=2 #48
-2025/03/02-20:03:55.991 5438 Manual compaction at level-1 from '!settings!m8WnUQLtE1Q3Wlz9' @ 58 : 1 .. '!settings!t5zRloq074qA1vsH' @ 0 : 0; will stop at (end)
+2025/03/03-11:30:55.504 ef4 Recovering log #61
+2025/03/03-11:30:55.518 ef4 Delete type=0 #61
+2025/03/03-11:30:55.521 ef4 Delete type=3 #59
+2025/03/03-17:40:27.047 1c50 Level-0 table #67: started
+2025/03/03-17:40:27.059 1c50 Level-0 table #67: 14416 bytes OK
+2025/03/03-17:40:27.066 1c50 Delete type=0 #65
+2025/03/03-17:40:27.070 1c50 Manual compaction at level-0 from '!settings!1D20OqCBdZHubsIO' @ 72057594037927935 : 1 .. '!settings!wjMESp0g4TGeqWsY' @ 0 : 0; will stop at '!settings!wjMESp0g4TGeqWsY' @ 175 : 1
+2025/03/03-17:40:27.070 1c50 Compacting 1@0 + 1@1 files
+2025/03/03-17:40:27.080 1c50 Generated table #68@0: 19 keys, 7581 bytes
+2025/03/03-17:40:27.080 1c50 Compacted 1@0 + 1@1 files => 7581 bytes
+2025/03/03-17:40:27.088 1c50 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/03/03-17:40:27.093 1c50 Delete type=2 #63
+2025/03/03-17:40:27.098 1c50 Delete type=2 #67
+2025/03/03-17:40:27.102 1c50 Manual compaction at level-0 from '!settings!wjMESp0g4TGeqWsY' @ 175 : 1 .. '!settings!wjMESp0g4TGeqWsY' @ 0 : 0; will stop at (end)
