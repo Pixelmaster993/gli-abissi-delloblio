@@ -1,14 +1,14 @@
-2025/03/03-11:30:55.504 ef4 Recovering log #61
-2025/03/03-11:30:55.518 ef4 Delete type=0 #61
-2025/03/03-11:30:55.521 ef4 Delete type=3 #59
-2025/03/03-17:40:27.047 1c50 Level-0 table #67: started
-2025/03/03-17:40:27.059 1c50 Level-0 table #67: 14416 bytes OK
-2025/03/03-17:40:27.066 1c50 Delete type=0 #65
-2025/03/03-17:40:27.070 1c50 Manual compaction at level-0 from '!settings!1D20OqCBdZHubsIO' @ 72057594037927935 : 1 .. '!settings!wjMESp0g4TGeqWsY' @ 0 : 0; will stop at '!settings!wjMESp0g4TGeqWsY' @ 175 : 1
-2025/03/03-17:40:27.070 1c50 Compacting 1@0 + 1@1 files
-2025/03/03-17:40:27.080 1c50 Generated table #68@0: 19 keys, 7581 bytes
-2025/03/03-17:40:27.080 1c50 Compacted 1@0 + 1@1 files => 7581 bytes
-2025/03/03-17:40:27.088 1c50 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/03/03-17:40:27.093 1c50 Delete type=2 #63
-2025/03/03-17:40:27.098 1c50 Delete type=2 #67
-2025/03/03-17:40:27.102 1c50 Manual compaction at level-0 from '!settings!wjMESp0g4TGeqWsY' @ 175 : 1 .. '!settings!wjMESp0g4TGeqWsY' @ 0 : 0; will stop at (end)
+2025/03/04-15:07:41.666 4be0 Recovering log #89
+2025/03/04-15:07:41.682 4be0 Delete type=0 #89
+2025/03/04-15:07:41.685 4be0 Delete type=3 #87
+2025/03/04-18:01:20.414 1d74 Level-0 table #95: started
+2025/03/04-18:01:20.419 1d74 Level-0 table #95: 5984 bytes OK
+2025/03/04-18:01:20.425 1d74 Delete type=0 #93
+2025/03/04-18:01:20.447 1d74 Manual compaction at level-0 from '!settings!1D20OqCBdZHubsIO' @ 72057594037927935 : 1 .. '!settings!zUaQ2iOwSU33nB0s' @ 0 : 0; will stop at '!settings!zUaQ2iOwSU33nB0s' @ 225 : 1
+2025/03/04-18:01:20.447 1d74 Compacting 1@0 + 1@1 files
+2025/03/04-18:01:20.458 1d74 Generated table #96@0: 41 keys, 10811 bytes
+2025/03/04-18:01:20.458 1d74 Compacted 1@0 + 1@1 files => 10811 bytes
+2025/03/04-18:01:20.466 1d74 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/03/04-18:01:20.469 1d74 Delete type=2 #91
+2025/03/04-18:01:20.473 1d74 Delete type=2 #95
+2025/03/04-18:01:20.517 1d74 Manual compaction at level-0 from '!settings!zUaQ2iOwSU33nB0s' @ 225 : 1 .. '!settings!zUaQ2iOwSU33nB0s' @ 0 : 0; will stop at (end)
