@@ -1,14 +1,14 @@
-2025/03/04-15:07:41.329 998 Recovering log #74
-2025/03/04-15:07:41.345 998 Delete type=0 #74
-2025/03/04-15:07:41.347 998 Delete type=3 #72
-2025/03/04-18:01:20.105 1d74 Level-0 table #80: started
-2025/03/04-18:01:20.116 1d74 Level-0 table #80: 164816 bytes OK
-2025/03/04-18:01:20.120 1d74 Delete type=0 #78
-2025/03/04-18:01:20.144 1d74 Manual compaction at level-0 from '!actors!3PqIt5tkeMIMWksp' @ 72057594037927935 : 1 .. '!actors.items.effects!EkdLDFzOR0cNzQEn.jLjl56Elz3Gv69uD.fOnO0Gj0HWndjYdH' @ 0 : 0; will stop at '!actors.items!zEMd19VgURNxv0xR.uRq12UociU9UXVcA' @ 190 : 0
-2025/03/04-18:01:20.144 1d74 Compacting 1@0 + 1@1 files
-2025/03/04-18:01:20.153 1d74 Generated table #81@0: 72 keys, 123904 bytes
-2025/03/04-18:01:20.153 1d74 Compacted 1@0 + 1@1 files => 123904 bytes
-2025/03/04-18:01:20.158 1d74 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/03/04-18:01:20.158 1d74 Delete type=2 #76
-2025/03/04-18:01:20.160 1d74 Delete type=2 #80
-2025/03/04-18:01:20.163 1d74 Manual compaction at level-0 from '!actors.items!zEMd19VgURNxv0xR.uRq12UociU9UXVcA' @ 190 : 0 .. '!actors.items.effects!EkdLDFzOR0cNzQEn.jLjl56Elz3Gv69uD.fOnO0Gj0HWndjYdH' @ 0 : 0; will stop at (end)
+2025/03/05-14:15:10.557 10a0 Recovering log #84
+2025/03/05-14:15:10.572 10a0 Delete type=0 #84
+2025/03/05-14:15:10.575 10a0 Delete type=3 #82
+2025/03/05-18:59:22.596 50d0 Level-0 table #89: started
+2025/03/05-18:59:22.606 50d0 Level-0 table #89: 176485 bytes OK
+2025/03/05-18:59:22.611 50d0 Delete type=0 #87
+2025/03/05-18:59:22.621 50d0 Manual compaction at level-0 from '!actors!3PqIt5tkeMIMWksp' @ 72057594037927935 : 1 .. '!actors.items!tu2QW5TDgvfHyihv.HwktDnB8qdr0BYGZ' @ 0 : 0; will stop at '!actors.items.effects!EkdLDFzOR0cNzQEn.jLjl56Elz3Gv69uD.fOnO0Gj0HWndjYdH' @ 392 : 0
+2025/03/05-18:59:22.621 50d0 Compacting 1@0 + 1@1 files
+2025/03/05-18:59:22.632 50d0 Generated table #90@0: 100 keys, 173117 bytes
+2025/03/05-18:59:22.632 50d0 Compacted 1@0 + 1@1 files => 173117 bytes
+2025/03/05-18:59:22.637 50d0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/03/05-18:59:22.637 50d0 Delete type=2 #81
+2025/03/05-18:59:22.640 50d0 Delete type=2 #89
+2025/03/05-18:59:22.654 50d0 Manual compaction at level-0 from '!actors.items.effects!EkdLDFzOR0cNzQEn.jLjl56Elz3Gv69uD.fOnO0Gj0HWndjYdH' @ 392 : 0 .. '!actors.items!tu2QW5TDgvfHyihv.HwktDnB8qdr0BYGZ' @ 0 : 0; will stop at (end)

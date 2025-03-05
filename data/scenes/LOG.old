@@ -1,14 +1,7 @@
-2025/03/04-14:34:39.871 998 Recovering log #75
-2025/03/04-14:34:39.886 998 Delete type=0 #75
-2025/03/04-14:34:39.889 998 Delete type=3 #73
-2025/03/04-15:07:21.113 1d74 Level-0 table #80: started
-2025/03/04-15:07:21.120 1d74 Level-0 table #80: 29630 bytes OK
-2025/03/04-15:07:21.125 1d74 Delete type=0 #78
-2025/03/04-15:07:21.127 1d74 Manual compaction at level-0 from '!scenes!IK6MTAQoN4KHMAa7' @ 72057594037927935 : 1 .. '!scenes.tokens.delta!IK6MTAQoN4KHMAa7.lpTbp01ys1NAcSRp.uPaGoX617EwapaRm' @ 0 : 0; will stop at '!scenes.tokens.delta!IK6MTAQoN4KHMAa7.lpTbp01ys1NAcSRp.uPaGoX617EwapaRm' @ 78 : 1
-2025/03/04-15:07:21.128 1d74 Compacting 1@0 + 1@1 files
-2025/03/04-15:07:21.147 1d74 Generated table #81@0: 11 keys, 3614 bytes
-2025/03/04-15:07:21.147 1d74 Compacted 1@0 + 1@1 files => 3614 bytes
-2025/03/04-15:07:21.151 1d74 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/03/04-15:07:21.151 1d74 Delete type=2 #54
-2025/03/04-15:07:21.154 1d74 Delete type=2 #80
-2025/03/04-15:07:21.194 1d74 Manual compaction at level-0 from '!scenes.tokens.delta!IK6MTAQoN4KHMAa7.lpTbp01ys1NAcSRp.uPaGoX617EwapaRm' @ 78 : 1 .. '!scenes.tokens.delta!IK6MTAQoN4KHMAa7.lpTbp01ys1NAcSRp.uPaGoX617EwapaRm' @ 0 : 0; will stop at (end)
+2025/03/05-11:11:20.063 c44 Recovering log #84
+2025/03/05-11:11:20.078 c44 Delete type=0 #84
+2025/03/05-11:11:20.081 c44 Delete type=3 #82
+2025/03/05-12:37:45.327 46dc Level-0 table #90: started
+2025/03/05-12:37:45.327 46dc Level-0 table #90: 0 bytes OK
+2025/03/05-12:37:45.332 46dc Delete type=0 #88
+2025/03/05-12:37:45.355 46dc Manual compaction at level-0 from '!scenes!8ybSSWaCxkFBq7VR' @ 72057594037927935 : 1 .. '!scenes.tokens.delta.effects!8ybSSWaCxkFBq7VR.zOg2vCzOfX8Xn6gi.wCevWDE59Z1ay7pZ.dnd5edead0000000' @ 0 : 0; will stop at (end)

@@ -1,15 +1,14 @@
-2025/03/04-15:07:41.496 4be0 Recovering log #72
-2025/03/04-15:07:41.512 4be0 Delete type=0 #72
-2025/03/04-15:07:41.515 4be0 Delete type=3 #70
-2025/03/04-18:01:20.427 1d74 Level-0 table #77: started
-2025/03/04-18:01:20.440 1d74 Level-0 table #77: 4026 bytes OK
-2025/03/04-18:01:20.444 1d74 Delete type=0 #75
-2025/03/04-18:01:20.482 1d74 Manual compaction at level-0 from '!items!PCIN54tIwxlmD7mH' @ 72057594037927935 : 1 .. '!items!PCIN54tIwxlmD7mH' @ 0 : 0; will stop at '!items!p4MWDyxDwYo4t6VM' @ 195 : 1
-2025/03/04-18:01:20.482 1d74 Compacting 2@0 + 1@1 files
-2025/03/04-18:01:20.495 1d74 Generated table #78@0: 1 keys, 823 bytes
-2025/03/04-18:01:20.495 1d74 Compacted 2@0 + 1@1 files => 823 bytes
-2025/03/04-18:01:20.501 1d74 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/03/04-18:01:20.504 1d74 Delete type=2 #61
-2025/03/04-18:01:20.509 1d74 Delete type=2 #65
-2025/03/04-18:01:20.513 1d74 Delete type=2 #77
-2025/03/04-18:01:20.517 1d74 Manual compaction at level-0 from '!items!p4MWDyxDwYo4t6VM' @ 195 : 1 .. '!items!PCIN54tIwxlmD7mH' @ 0 : 0; will stop at (end)
+2025/03/05-14:15:10.798 23e8 Recovering log #81
+2025/03/05-14:15:10.814 23e8 Delete type=0 #81
+2025/03/05-14:15:10.817 23e8 Delete type=3 #79
+2025/03/05-18:59:22.918 50d0 Level-0 table #86: started
+2025/03/05-18:59:22.930 50d0 Level-0 table #86: 152835 bytes OK
+2025/03/05-18:59:22.939 50d0 Delete type=0 #84
+2025/03/05-18:59:23.007 50d0 Manual compaction at level-0 from '!items!PCIN54tIwxlmD7mH' @ 72057594037927935 : 1 .. '!items!PCIN54tIwxlmD7mH' @ 0 : 0; will stop at '!items.effects!0mAWEF1gqmcELmXc.X0WnO8iTMlhHVEAT' @ 341 : 1
+2025/03/05-18:59:23.007 50d0 Compacting 1@0 + 1@1 files
+2025/03/05-18:59:23.024 50d0 Generated table #87@0: 1 keys, 836 bytes
+2025/03/05-18:59:23.024 50d0 Compacted 1@0 + 1@1 files => 836 bytes
+2025/03/05-18:59:23.031 50d0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/03/05-18:59:23.033 50d0 Delete type=2 #78
+2025/03/05-18:59:23.039 50d0 Delete type=2 #86
+2025/03/05-18:59:23.043 50d0 Manual compaction at level-0 from '!items.effects!0mAWEF1gqmcELmXc.X0WnO8iTMlhHVEAT' @ 341 : 1 .. '!items!PCIN54tIwxlmD7mH' @ 0 : 0; will stop at (end)

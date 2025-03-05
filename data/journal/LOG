@@ -1,14 +1,14 @@
-2025/03/04-15:07:41.525 998 Recovering log #77
-2025/03/04-15:07:41.540 998 Delete type=0 #77
-2025/03/04-15:07:41.543 998 Delete type=3 #75
-2025/03/04-18:01:20.201 1d74 Level-0 table #82: started
-2025/03/04-18:01:20.209 1d74 Level-0 table #82: 141079 bytes OK
-2025/03/04-18:01:20.214 1d74 Delete type=0 #80
-2025/03/04-18:01:20.259 1d74 Manual compaction at level-0 from '!journal!55KakQqVkcaELib0' @ 72057594037927935 : 1 .. '!journal.pages!8eAQ6IDe4MNqkBua.F0WxHKJtFXgL0Bs6' @ 0 : 0; will stop at '!journal!z3pufkkMVwy8Drqr' @ 111 : 1
-2025/03/04-18:01:20.259 1d74 Compacting 1@0 + 1@1 files
-2025/03/04-18:01:20.266 1d74 Generated table #83@0: 9 keys, 11509 bytes
-2025/03/04-18:01:20.266 1d74 Compacted 1@0 + 1@1 files => 11509 bytes
-2025/03/04-18:01:20.271 1d74 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/03/04-18:01:20.271 1d74 Delete type=2 #70
-2025/03/04-18:01:20.274 1d74 Delete type=2 #82
-2025/03/04-18:01:20.308 1d74 Manual compaction at level-0 from '!journal!z3pufkkMVwy8Drqr' @ 111 : 1 .. '!journal.pages!8eAQ6IDe4MNqkBua.F0WxHKJtFXgL0Bs6' @ 0 : 0; will stop at (end)
+2025/03/05-14:15:10.837 10a0 Recovering log #86
+2025/03/05-14:15:10.852 10a0 Delete type=0 #86
+2025/03/05-14:15:10.854 10a0 Delete type=3 #84
+2025/03/05-18:59:22.691 50d0 Level-0 table #91: started
+2025/03/05-18:59:22.700 50d0 Level-0 table #91: 44611 bytes OK
+2025/03/05-18:59:22.705 50d0 Delete type=0 #89
+2025/03/05-18:59:22.741 50d0 Manual compaction at level-0 from '!journal!01HVXYhXDgJpllpY' @ 72057594037927935 : 1 .. '!journal.pages!8eAQ6IDe4MNqkBua.F0WxHKJtFXgL0Bs6' @ 0 : 0; will stop at '!journal!oQkrSl81Q5699kHa' @ 154 : 1
+2025/03/05-18:59:22.741 50d0 Compacting 1@0 + 1@1 files
+2025/03/05-18:59:22.748 50d0 Generated table #92@0: 11 keys, 14083 bytes
+2025/03/05-18:59:22.748 50d0 Compacted 1@0 + 1@1 files => 14083 bytes
+2025/03/05-18:59:22.752 50d0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/03/05-18:59:22.753 50d0 Delete type=2 #83
+2025/03/05-18:59:22.755 50d0 Delete type=2 #91
+2025/03/05-18:59:22.776 50d0 Manual compaction at level-0 from '!journal!oQkrSl81Q5699kHa' @ 154 : 1 .. '!journal.pages!8eAQ6IDe4MNqkBua.F0WxHKJtFXgL0Bs6' @ 0 : 0; will stop at (end)
