@@ -1,14 +1,14 @@
-2025/03/05-14:15:10.557 10a0 Recovering log #84
-2025/03/05-14:15:10.572 10a0 Delete type=0 #84
-2025/03/05-14:15:10.575 10a0 Delete type=3 #82
-2025/03/05-18:59:22.596 50d0 Level-0 table #89: started
-2025/03/05-18:59:22.606 50d0 Level-0 table #89: 176485 bytes OK
-2025/03/05-18:59:22.611 50d0 Delete type=0 #87
-2025/03/05-18:59:22.621 50d0 Manual compaction at level-0 from '!actors!3PqIt5tkeMIMWksp' @ 72057594037927935 : 1 .. '!actors.items!tu2QW5TDgvfHyihv.HwktDnB8qdr0BYGZ' @ 0 : 0; will stop at '!actors.items.effects!EkdLDFzOR0cNzQEn.jLjl56Elz3Gv69uD.fOnO0Gj0HWndjYdH' @ 392 : 0
-2025/03/05-18:59:22.621 50d0 Compacting 1@0 + 1@1 files
-2025/03/05-18:59:22.632 50d0 Generated table #90@0: 100 keys, 173117 bytes
-2025/03/05-18:59:22.632 50d0 Compacted 1@0 + 1@1 files => 173117 bytes
-2025/03/05-18:59:22.637 50d0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/03/05-18:59:22.637 50d0 Delete type=2 #81
-2025/03/05-18:59:22.640 50d0 Delete type=2 #89
-2025/03/05-18:59:22.654 50d0 Manual compaction at level-0 from '!actors.items.effects!EkdLDFzOR0cNzQEn.jLjl56Elz3Gv69uD.fOnO0Gj0HWndjYdH' @ 392 : 0 .. '!actors.items!tu2QW5TDgvfHyihv.HwktDnB8qdr0BYGZ' @ 0 : 0; will stop at (end)
+2025/03/07-11:39:04.583 6794 Recovering log #111
+2025/03/07-11:39:04.599 6794 Delete type=0 #111
+2025/03/07-11:39:04.602 6794 Delete type=3 #109
+2025/03/07-18:10:15.854 67f4 Level-0 table #117: started
+2025/03/07-18:10:15.869 67f4 Level-0 table #117: 280889 bytes OK
+2025/03/07-18:10:15.876 67f4 Delete type=0 #115
+2025/03/07-18:10:15.897 67f4 Manual compaction at level-0 from '!actors!3PqIt5tkeMIMWksp' @ 72057594037927935 : 1 .. '!actors.items!tu2QW5TDgvfHyihv.HwktDnB8qdr0BYGZ' @ 0 : 0; will stop at '!actors.items.effects!xmKfFLQQh4hybQIh.ckpH6S5CPdh81PCX.kPeNJe2giMZvktDE' @ 794 : 1
+2025/03/07-18:10:15.897 67f4 Compacting 1@0 + 1@1 files
+2025/03/07-18:10:15.910 67f4 Generated table #118@0: 62 keys, 104378 bytes
+2025/03/07-18:10:15.910 67f4 Compacted 1@0 + 1@1 files => 104378 bytes
+2025/03/07-18:10:15.921 67f4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/03/07-18:10:15.921 67f4 Delete type=2 #113
+2025/03/07-18:10:15.926 67f4 Delete type=2 #117
+2025/03/07-18:10:15.930 67f4 Manual compaction at level-0 from '!actors.items.effects!xmKfFLQQh4hybQIh.ckpH6S5CPdh81PCX.kPeNJe2giMZvktDE' @ 794 : 1 .. '!actors.items!tu2QW5TDgvfHyihv.HwktDnB8qdr0BYGZ' @ 0 : 0; will stop at (end)

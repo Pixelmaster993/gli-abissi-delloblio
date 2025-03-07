@@ -1,15 +1,7 @@
-2025/03/05-14:15:10.645 23e8 Recovering log #87
-2025/03/05-14:15:10.661 23e8 Delete type=0 #87
-2025/03/05-14:15:10.665 23e8 Delete type=3 #85
-2025/03/05-18:59:22.654 50d0 Level-0 table #93: started
-2025/03/05-18:59:22.663 50d0 Level-0 table #93: 29896 bytes OK
-2025/03/05-18:59:22.667 50d0 Delete type=0 #91
-2025/03/05-18:59:22.708 50d0 Manual compaction at level-0 from '!messages!0YskNjR6DJS6ARiW' @ 72057594037927935 : 1 .. '!messages!yhelbe1Huq1xcly7' @ 0 : 0; will stop at (end)
-2025/03/05-18:59:22.758 50d0 Manual compaction at level-1 from '!messages!0YskNjR6DJS6ARiW' @ 72057594037927935 : 1 .. '!messages!yhelbe1Huq1xcly7' @ 0 : 0; will stop at '!messages!yhelbe1Huq1xcly7' @ 62 : 1
-2025/03/05-18:59:22.758 50d0 Compacting 1@1 + 1@2 files
-2025/03/05-18:59:22.766 50d0 Generated table #94@1: 19 keys, 29347 bytes
-2025/03/05-18:59:22.766 50d0 Compacted 1@1 + 1@2 files => 29347 bytes
-2025/03/05-18:59:22.770 50d0 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/03/05-18:59:22.770 50d0 Delete type=2 #89
-2025/03/05-18:59:22.773 50d0 Delete type=2 #93
-2025/03/05-18:59:22.776 50d0 Manual compaction at level-1 from '!messages!yhelbe1Huq1xcly7' @ 62 : 1 .. '!messages!yhelbe1Huq1xcly7' @ 0 : 0; will stop at (end)
+2025/03/07-11:39:04.643 5cc8 Recovering log #115
+2025/03/07-11:39:04.658 5cc8 Delete type=0 #115
+2025/03/07-11:39:04.661 5cc8 Delete type=3 #113
+2025/03/07-18:10:15.632 67f4 Level-0 table #122: started
+2025/03/07-18:10:15.648 67f4 Level-0 table #122: 2819 bytes OK
+2025/03/07-18:10:15.652 67f4 Delete type=0 #120
+2025/03/07-18:10:15.691 67f4 Manual compaction at level-0 from '!messages!880cKNmMtf3ALZcZ' @ 72057594037927935 : 1 .. '!messages!880cKNmMtf3ALZcZ' @ 0 : 0; will stop at (end)

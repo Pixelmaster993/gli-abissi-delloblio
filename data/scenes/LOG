@@ -1,14 +1,14 @@
-2025/03/05-14:15:10.980 10a0 Recovering log #89
-2025/03/05-14:15:10.995 10a0 Delete type=0 #89
-2025/03/05-14:15:10.998 10a0 Delete type=3 #87
-2025/03/05-18:59:22.791 50d0 Level-0 table #94: started
-2025/03/05-18:59:22.805 50d0 Level-0 table #94: 783567 bytes OK
-2025/03/05-18:59:22.810 50d0 Delete type=0 #92
-2025/03/05-18:59:22.848 50d0 Manual compaction at level-0 from '!scenes!8ybSSWaCxkFBq7VR' @ 72057594037927935 : 1 .. '!scenes.walls!ESPLju6X5f6hRrko.znOLCBYYMCnBxu0U' @ 0 : 0; will stop at '!scenes.walls!ESPLju6X5f6hRrko.znOLCBYYMCnBxu0U' @ 604 : 1
-2025/03/05-18:59:22.848 50d0 Compacting 1@0 + 1@1 files
-2025/03/05-18:59:22.855 50d0 Generated table #95@0: 199 keys, 25629 bytes
-2025/03/05-18:59:22.855 50d0 Compacted 1@0 + 1@1 files => 25629 bytes
-2025/03/05-18:59:22.860 50d0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/03/05-18:59:22.861 50d0 Delete type=2 #86
-2025/03/05-18:59:22.864 50d0 Delete type=2 #94
-2025/03/05-18:59:22.887 50d0 Manual compaction at level-0 from '!scenes.walls!ESPLju6X5f6hRrko.znOLCBYYMCnBxu0U' @ 604 : 1 .. '!scenes.walls!ESPLju6X5f6hRrko.znOLCBYYMCnBxu0U' @ 0 : 0; will stop at (end)
+2025/03/07-11:39:04.888 13d4 Recovering log #116
+2025/03/07-11:39:04.904 13d4 Delete type=0 #116
+2025/03/07-11:39:04.906 13d4 Delete type=3 #114
+2025/03/07-18:10:15.783 67f4 Level-0 table #121: started
+2025/03/07-18:10:15.802 67f4 Level-0 table #121: 1486 bytes OK
+2025/03/07-18:10:15.810 67f4 Delete type=0 #119
+2025/03/07-18:10:15.837 67f4 Manual compaction at level-0 from '!scenes!8ybSSWaCxkFBq7VR' @ 72057594037927935 : 1 .. '!scenes.walls!ESPLju6X5f6hRrko.znOLCBYYMCnBxu0U' @ 0 : 0; will stop at '!scenes.tokens.delta!IK6MTAQoN4KHMAa7.5MxMEu0RmY1yjnVs.RcQoG21ymedoHHus' @ 1267 : 0
+2025/03/07-18:10:15.837 67f4 Compacting 1@0 + 1@1 files
+2025/03/07-18:10:15.843 67f4 Generated table #122@0: 201 keys, 26134 bytes
+2025/03/07-18:10:15.843 67f4 Compacted 1@0 + 1@1 files => 26134 bytes
+2025/03/07-18:10:15.849 67f4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/03/07-18:10:15.849 67f4 Delete type=2 #113
+2025/03/07-18:10:15.852 67f4 Delete type=2 #121
+2025/03/07-18:10:15.897 67f4 Manual compaction at level-0 from '!scenes.tokens.delta!IK6MTAQoN4KHMAa7.5MxMEu0RmY1yjnVs.RcQoG21ymedoHHus' @ 1267 : 0 .. '!scenes.walls!ESPLju6X5f6hRrko.znOLCBYYMCnBxu0U' @ 0 : 0; will stop at (end)
