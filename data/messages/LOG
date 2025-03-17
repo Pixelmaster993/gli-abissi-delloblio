@@ -1,24 +1,7 @@
-2025/03/14-14:02:26.583 3ec4 Recovering log #208
-2025/03/14-14:02:26.584 3ec4 Level-0 table #210: started
-2025/03/14-14:02:26.596 3ec4 Level-0 table #210: 1152 bytes OK
-2025/03/14-14:02:26.612 3ec4 Delete type=0 #208
-2025/03/14-14:02:26.614 3ec4 Delete type=3 #207
-2025/03/14-19:18:57.243 255c Level-0 table #213: started
-2025/03/14-19:18:57.250 255c Level-0 table #213: 10240 bytes OK
-2025/03/14-19:18:57.255 255c Delete type=0 #211
-2025/03/14-19:18:57.307 255c Manual compaction at level-0 from '!messages!0y8fs2Te8ZwPwdhZ' @ 72057594037927935 : 1 .. '!messages!lrg5ekXPzTU0Y3xl' @ 0 : 0; will stop at '!messages!nX1ypgSsN7lP5YoD' @ 284 : 0
-2025/03/14-19:18:57.307 255c Compacting 2@0 + 0@1 files
-2025/03/14-19:18:57.312 255c Generated table #214@0: 32 keys, 7554 bytes
-2025/03/14-19:18:57.313 255c Compacted 2@0 + 0@1 files => 7554 bytes
-2025/03/14-19:18:57.318 255c compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/03/14-19:18:57.319 255c Delete type=2 #210
-2025/03/14-19:18:57.322 255c Delete type=2 #213
-2025/03/14-19:18:57.323 255c Manual compaction at level-0 from '!messages!nX1ypgSsN7lP5YoD' @ 284 : 0 .. '!messages!lrg5ekXPzTU0Y3xl' @ 0 : 0; will stop at (end)
-2025/03/14-19:18:57.323 255c Manual compaction at level-1 from '!messages!0y8fs2Te8ZwPwdhZ' @ 72057594037927935 : 1 .. '!messages!lrg5ekXPzTU0Y3xl' @ 0 : 0; will stop at '!messages!nX1ypgSsN7lP5YoD' @ 284 : 0
-2025/03/14-19:18:57.323 255c Compacting 1@1 + 1@2 files
-2025/03/14-19:18:57.337 255c Generated table #215@1: 18 keys, 7213 bytes
-2025/03/14-19:18:57.337 255c Compacted 1@1 + 1@2 files => 7213 bytes
-2025/03/14-19:18:57.340 255c compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/03/14-19:18:57.341 255c Delete type=2 #206
-2025/03/14-19:18:57.344 255c Delete type=2 #214
-2025/03/14-19:18:57.376 255c Manual compaction at level-1 from '!messages!nX1ypgSsN7lP5YoD' @ 284 : 0 .. '!messages!lrg5ekXPzTU0Y3xl' @ 0 : 0; will stop at (end)
+2025/03/17-14:27:46.326 2590 Recovering log #218
+2025/03/17-14:27:46.370 2590 Delete type=0 #218
+2025/03/17-14:27:46.378 2590 Delete type=3 #216
+2025/03/17-15:50:48.491 6018 Level-0 table #224: started
+2025/03/17-15:50:48.514 6018 Level-0 table #224: 1537 bytes OK
+2025/03/17-15:50:48.527 6018 Delete type=0 #222
+2025/03/17-15:50:48.581 6018 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)

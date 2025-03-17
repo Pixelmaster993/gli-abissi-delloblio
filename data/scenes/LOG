@@ -1,44 +1,14 @@
-2025/03/14-14:02:27.138 16cc Recovering log #220
-2025/03/14-14:02:27.141 16cc Level-0 table #222: started
-2025/03/14-14:02:27.149 16cc Level-0 table #222: 515663 bytes OK
-2025/03/14-14:02:27.166 16cc Delete type=0 #220
-2025/03/14-14:02:27.169 16cc Delete type=3 #219
-2025/03/14-14:02:27.317 255c Compacting 1@0 + 1@1 files
-2025/03/14-14:02:27.328 255c Generated table #224@0: 1778 keys, 162264 bytes
-2025/03/14-14:02:27.328 255c Compacted 1@0 + 1@1 files => 162264 bytes
-2025/03/14-14:02:27.333 255c compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/03/14-14:02:27.333 255c Delete type=2 #218
-2025/03/14-14:02:27.337 255c Delete type=2 #222
-2025/03/14-17:08:14.450 255c Level-0 table #226: started
-2025/03/14-17:08:14.483 255c Level-0 table #226: 3826662 bytes OK
-2025/03/14-17:08:14.489 255c Delete type=0 #223
-2025/03/14-17:18:33.045 255c Compacting 1@0 + 1@1 files
-2025/03/14-17:18:33.061 255c Generated table #227@0: 2436 keys, 221755 bytes
-2025/03/14-17:18:33.061 255c Compacted 1@0 + 1@1 files => 221755 bytes
-2025/03/14-17:18:33.064 255c compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/03/14-17:18:33.065 255c Delete type=2 #224
-2025/03/14-17:18:33.069 255c Delete type=2 #226
-2025/03/14-17:54:21.967 255c Level-0 table #229: started
-2025/03/14-17:54:21.997 255c Level-0 table #229: 3340402 bytes OK
-2025/03/14-17:54:22.001 255c Delete type=0 #225
-2025/03/14-18:25:55.331 255c Compacting 1@0 + 1@1 files
-2025/03/14-18:25:55.358 255c Generated table #230@0: 3730 keys, 339508 bytes
-2025/03/14-18:25:55.358 255c Compacted 1@0 + 1@1 files => 339508 bytes
-2025/03/14-18:25:55.362 255c compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/03/14-18:59:41.684 255c Level-0 table #232: started
-2025/03/14-18:59:41.711 255c Level-0 table #232: 3922371 bytes OK
-2025/03/14-18:59:41.714 255c Delete type=2 #227
-2025/03/14-18:59:41.717 255c Delete type=0 #228
-2025/03/14-18:59:41.720 255c Delete type=2 #229
-2025/03/14-19:18:57.418 255c Level-0 table #234: started
-2025/03/14-19:18:57.432 255c Level-0 table #234: 1415160 bytes OK
-2025/03/14-19:18:57.436 255c Delete type=0 #231
-2025/03/14-19:18:57.449 255c Manual compaction at level-0 from '!scenes!8ybSSWaCxkFBq7VR' @ 72057594037927935 : 1 .. '!scenes.walls!tsLgSINw7NtBLGKr.zyB77TSQg59TqIHS' @ 0 : 0; will stop at '!scenes.walls!YNVWWm0isH88JGaD.yd552ZEzdB2TcQ05' @ 25543 : 1
-2025/03/14-19:18:57.449 255c Compacting 2@0 + 1@1 files
-2025/03/14-19:18:57.465 255c Generated table #235@0: 3779 keys, 350598 bytes
-2025/03/14-19:18:57.465 255c Compacted 2@0 + 1@1 files => 350598 bytes
-2025/03/14-19:18:57.468 255c compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/03/14-19:18:57.469 255c Delete type=2 #230
-2025/03/14-19:18:57.471 255c Delete type=2 #232
-2025/03/14-19:18:57.475 255c Delete type=2 #234
-2025/03/14-19:18:57.523 255c Manual compaction at level-0 from '!scenes.walls!YNVWWm0isH88JGaD.yd552ZEzdB2TcQ05' @ 25543 : 1 .. '!scenes.walls!tsLgSINw7NtBLGKr.zyB77TSQg59TqIHS' @ 0 : 0; will stop at (end)
+2025/03/17-14:27:47.006 5b90 Recovering log #238
+2025/03/17-14:27:47.055 5b90 Delete type=0 #238
+2025/03/17-14:27:47.064 5b90 Delete type=3 #236
+2025/03/17-15:50:48.826 6018 Level-0 table #243: started
+2025/03/17-15:50:48.850 6018 Level-0 table #243: 611805 bytes OK
+2025/03/17-15:50:48.865 6018 Delete type=0 #241
+2025/03/17-15:50:48.918 6018 Manual compaction at level-0 from '!scenes!8gaL0JE1Jq5vnoGp' @ 72057594037927935 : 1 .. '!scenes.walls!tsLgSINw7NtBLGKr.zyB77TSQg59TqIHS' @ 0 : 0; will stop at '!scenes.tokens.delta!c0k8MQBoRGXt7mf4.uhYzreWYjeBMTK84.CF4USAVuqGS1COHU' @ 26391 : 1
+2025/03/17-15:50:48.918 6018 Compacting 1@0 + 1@1 files
+2025/03/17-15:50:48.941 6018 Generated table #244@0: 3790 keys, 353522 bytes
+2025/03/17-15:50:48.941 6018 Compacted 1@0 + 1@1 files => 353522 bytes
+2025/03/17-15:50:48.952 6018 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/03/17-15:50:48.952 6018 Delete type=2 #235
+2025/03/17-15:50:48.961 6018 Delete type=2 #243
+2025/03/17-15:50:49.054 6018 Manual compaction at level-0 from '!scenes.tokens.delta!c0k8MQBoRGXt7mf4.uhYzreWYjeBMTK84.CF4USAVuqGS1COHU' @ 26391 : 1 .. '!scenes.walls!tsLgSINw7NtBLGKr.zyB77TSQg59TqIHS' @ 0 : 0; will stop at (end)

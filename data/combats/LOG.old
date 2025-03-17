@@ -1,3 +1,8 @@
-2025/03/14-09:31:33.704 4aac Recovering log #174
-2025/03/14-09:31:33.719 4aac Delete type=0 #174
-2025/03/14-09:31:33.721 4aac Delete type=3 #172
+2025/03/17-14:23:11.945 2d20 Recovering log #180
+2025/03/17-14:23:11.961 2d20 Delete type=0 #180
+2025/03/17-14:23:11.963 2d20 Delete type=3 #178
+2025/03/17-14:25:58.576 6018 Level-0 table #185: started
+2025/03/17-14:25:58.576 6018 Level-0 table #185: 0 bytes OK
+2025/03/17-14:25:58.581 6018 Delete type=0 #183
+2025/03/17-14:25:58.591 6018 Manual compaction at level-0 from '!combats!fg1U0NOGDxRdfZae' @ 72057594037927935 : 1 .. '!combats.combatants!fg1U0NOGDxRdfZae.yIFtIp4wCnPFySC1' @ 0 : 0; will stop at (end)
+2025/03/17-14:25:58.612 6018 Manual compaction at level-1 from '!combats!fg1U0NOGDxRdfZae' @ 72057594037927935 : 1 .. '!combats.combatants!fg1U0NOGDxRdfZae.yIFtIp4wCnPFySC1' @ 0 : 0; will stop at (end)

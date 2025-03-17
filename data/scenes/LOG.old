@@ -1,3 +1,7 @@
-2025/03/14-09:31:34.101 4aac Recovering log #216
-2025/03/14-09:31:34.117 4aac Delete type=0 #216
-2025/03/14-09:31:34.119 4aac Delete type=3 #210
+2025/03/17-14:23:12.314 2d20 Recovering log #233
+2025/03/17-14:23:12.330 2d20 Delete type=0 #233
+2025/03/17-14:23:12.333 2d20 Delete type=3 #221
+2025/03/17-14:25:58.666 6018 Level-0 table #239: started
+2025/03/17-14:25:58.667 6018 Level-0 table #239: 0 bytes OK
+2025/03/17-14:25:58.674 6018 Delete type=0 #237
+2025/03/17-14:25:58.686 6018 Manual compaction at level-0 from '!scenes!8ybSSWaCxkFBq7VR' @ 72057594037927935 : 1 .. '!scenes.walls!tsLgSINw7NtBLGKr.zyB77TSQg59TqIHS' @ 0 : 0; will stop at (end)
