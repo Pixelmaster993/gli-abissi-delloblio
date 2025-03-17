@@ -1,14 +1,17 @@
-2025/03/07-11:39:04.725 104c Recovering log #111
-2025/03/07-11:39:04.741 104c Delete type=0 #111
-2025/03/07-11:39:04.743 104c Delete type=3 #109
-2025/03/07-18:10:15.662 67f4 Level-0 table #116: started
-2025/03/07-18:10:15.677 67f4 Level-0 table #116: 502 bytes OK
-2025/03/07-18:10:15.681 67f4 Delete type=0 #114
-2025/03/07-18:10:15.691 67f4 Manual compaction at level-0 from '!folders!37zFntsnRM6xLcI9' @ 72057594037927935 : 1 .. '!folders!u7KYU4yuQCULo4HV' @ 0 : 0; will stop at '!folders!5l7A1oHhHZMpimEf' @ 29 : 1
-2025/03/07-18:10:15.691 67f4 Compacting 1@0 + 1@1 files
-2025/03/07-18:10:15.704 67f4 Generated table #117@0: 18 keys, 2517 bytes
-2025/03/07-18:10:15.704 67f4 Compacted 1@0 + 1@1 files => 2517 bytes
-2025/03/07-18:10:15.709 67f4 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/03/07-18:10:15.709 67f4 Delete type=2 #92
-2025/03/07-18:10:15.713 67f4 Delete type=2 #116
-2025/03/07-18:10:15.737 67f4 Manual compaction at level-0 from '!folders!5l7A1oHhHZMpimEf' @ 29 : 1 .. '!folders!u7KYU4yuQCULo4HV' @ 0 : 0; will stop at (end)
+2025/03/14-14:02:26.752 430 Recovering log #189
+2025/03/14-14:02:26.752 430 Level-0 table #191: started
+2025/03/14-14:02:26.766 430 Level-0 table #191: 725 bytes OK
+2025/03/14-14:02:26.782 430 Delete type=0 #189
+2025/03/14-14:02:26.785 430 Delete type=3 #188
+2025/03/14-19:18:57.222 255c Level-0 table #194: started
+2025/03/14-19:18:57.235 255c Level-0 table #194: 1745 bytes OK
+2025/03/14-19:18:57.240 255c Delete type=0 #192
+2025/03/14-19:18:57.281 255c Manual compaction at level-0 from '!folders!37zFntsnRM6xLcI9' @ 72057594037927935 : 1 .. '!folders!u7KYU4yuQCULo4HV' @ 0 : 0; will stop at '!folders!oau97hTMjb9SuFkB' @ 38 : 1
+2025/03/14-19:18:57.281 255c Compacting 2@0 + 1@1 files
+2025/03/14-19:18:57.292 255c Generated table #195@0: 22 keys, 2918 bytes
+2025/03/14-19:18:57.293 255c Compacted 2@0 + 1@1 files => 2918 bytes
+2025/03/14-19:18:57.297 255c compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/03/14-19:18:57.298 255c Delete type=2 #165
+2025/03/14-19:18:57.302 255c Delete type=2 #191
+2025/03/14-19:18:57.304 255c Delete type=2 #194
+2025/03/14-19:18:57.323 255c Manual compaction at level-0 from '!folders!oau97hTMjb9SuFkB' @ 38 : 1 .. '!folders!u7KYU4yuQCULo4HV' @ 0 : 0; will stop at (end)

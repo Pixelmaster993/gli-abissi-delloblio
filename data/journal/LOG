@@ -1,14 +1,17 @@
-2025/03/07-11:39:04.782 13d4 Recovering log #112
-2025/03/07-11:39:04.797 13d4 Delete type=0 #112
-2025/03/07-11:39:04.799 13d4 Delete type=3 #110
-2025/03/07-18:10:15.716 67f4 Level-0 table #118: started
-2025/03/07-18:10:15.729 67f4 Level-0 table #118: 736016 bytes OK
-2025/03/07-18:10:15.734 67f4 Delete type=0 #116
-2025/03/07-18:10:15.754 67f4 Manual compaction at level-0 from '!journal!01HVXYhXDgJpllpY' @ 72057594037927935 : 1 .. '!journal.pages!twjrQYrJ3i5YgB8Y.dv5TTFM0E6MzthEH' @ 0 : 0; will stop at '!journal.pages!cwcycHzNtawgwuIG.xtbC6zEXvx1thfOc' @ 489 : 1
-2025/03/07-18:10:15.754 67f4 Compacting 1@0 + 1@1 files
-2025/03/07-18:10:15.761 67f4 Generated table #119@0: 29 keys, 36487 bytes
-2025/03/07-18:10:15.761 67f4 Compacted 1@0 + 1@1 files => 36487 bytes
-2025/03/07-18:10:15.766 67f4 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/03/07-18:10:15.766 67f4 Delete type=2 #114
-2025/03/07-18:10:15.769 67f4 Delete type=2 #118
-2025/03/07-18:10:15.779 67f4 Manual compaction at level-0 from '!journal.pages!cwcycHzNtawgwuIG.xtbC6zEXvx1thfOc' @ 489 : 1 .. '!journal.pages!twjrQYrJ3i5YgB8Y.dv5TTFM0E6MzthEH' @ 0 : 0; will stop at (end)
+2025/03/14-14:02:26.898 16cc Recovering log #196
+2025/03/14-14:02:26.899 16cc Level-0 table #198: started
+2025/03/14-14:02:26.912 16cc Level-0 table #198: 225121 bytes OK
+2025/03/14-14:02:26.928 16cc Delete type=0 #196
+2025/03/14-14:02:26.930 16cc Delete type=3 #195
+2025/03/14-19:18:57.347 255c Level-0 table #201: started
+2025/03/14-19:18:57.354 255c Level-0 table #201: 7250 bytes OK
+2025/03/14-19:18:57.357 255c Delete type=0 #199
+2025/03/14-19:18:57.376 255c Manual compaction at level-0 from '!journal!01HVXYhXDgJpllpY' @ 72057594037927935 : 1 .. '!journal.pages!twjrQYrJ3i5YgB8Y.dv5TTFM0E6MzthEH' @ 0 : 0; will stop at '!journal!z3pufkkMVwy8Drqr' @ 972 : 1
+2025/03/14-19:18:57.376 255c Compacting 2@0 + 1@1 files
+2025/03/14-19:18:57.385 255c Generated table #202@0: 27 keys, 42079 bytes
+2025/03/14-19:18:57.385 255c Compacted 2@0 + 1@1 files => 42079 bytes
+2025/03/14-19:18:57.390 255c compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/03/14-19:18:57.390 255c Delete type=2 #194
+2025/03/14-19:18:57.393 255c Delete type=2 #198
+2025/03/14-19:18:57.396 255c Delete type=2 #201
+2025/03/14-19:18:57.439 255c Manual compaction at level-0 from '!journal!z3pufkkMVwy8Drqr' @ 972 : 1 .. '!journal.pages!twjrQYrJ3i5YgB8Y.dv5TTFM0E6MzthEH' @ 0 : 0; will stop at (end)

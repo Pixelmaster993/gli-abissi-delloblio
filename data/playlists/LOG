@@ -1,7 +1,23 @@
-2025/03/07-11:39:04.834 104c Recovering log #102
-2025/03/07-11:39:04.849 104c Delete type=0 #102
-2025/03/07-11:39:04.852 104c Delete type=3 #100
-2025/03/07-18:10:15.746 67f4 Level-0 table #107: started
-2025/03/07-18:10:15.747 67f4 Level-0 table #107: 0 bytes OK
-2025/03/07-18:10:15.751 67f4 Delete type=0 #105
-2025/03/07-18:10:15.779 67f4 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
+2025/03/14-14:02:26.994 430 Recovering log #179
+2025/03/14-14:02:26.994 430 Level-0 table #181: started
+2025/03/14-14:02:27.008 430 Level-0 table #181: 795 bytes OK
+2025/03/14-14:02:27.033 430 Delete type=0 #179
+2025/03/14-14:02:27.036 430 Delete type=3 #178
+2025/03/14-19:18:57.361 255c Level-0 table #184: started
+2025/03/14-19:18:57.361 255c Level-0 table #184: 0 bytes OK
+2025/03/14-19:18:57.366 255c Delete type=0 #182
+2025/03/14-19:18:57.399 255c Manual compaction at level-0 from '!playlists!3ZpJX4LTIEN1NEki' @ 72057594037927935 : 1 .. '!playlists.sounds!dCRpKbZH5nubLits.SHGq9n961A5hExqD' @ 0 : 0; will stop at '!playlists.sounds!3ZpJX4LTIEN1NEki.Y7Ja8OjMnTspknCR' @ 85 : 1
+2025/03/14-19:18:57.399 255c Compacting 1@0 + 0@1 files
+2025/03/14-19:18:57.410 255c Generated table #185@0: 2 keys, 795 bytes
+2025/03/14-19:18:57.410 255c Compacted 1@0 + 0@1 files => 795 bytes
+2025/03/14-19:18:57.415 255c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/14-19:18:57.415 255c Delete type=2 #181
+2025/03/14-19:18:57.439 255c Manual compaction at level-0 from '!playlists.sounds!3ZpJX4LTIEN1NEki.Y7Ja8OjMnTspknCR' @ 85 : 1 .. '!playlists.sounds!dCRpKbZH5nubLits.SHGq9n961A5hExqD' @ 0 : 0; will stop at (end)
+2025/03/14-19:18:57.478 255c Manual compaction at level-1 from '!playlists!3ZpJX4LTIEN1NEki' @ 72057594037927935 : 1 .. '!playlists.sounds!dCRpKbZH5nubLits.SHGq9n961A5hExqD' @ 0 : 0; will stop at '!playlists.sounds!3ZpJX4LTIEN1NEki.Y7Ja8OjMnTspknCR' @ 85 : 1
+2025/03/14-19:18:57.478 255c Compacting 1@1 + 1@2 files
+2025/03/14-19:18:57.491 255c Generated table #186@1: 4 keys, 1135 bytes
+2025/03/14-19:18:57.491 255c Compacted 1@1 + 1@2 files => 1135 bytes
+2025/03/14-19:18:57.494 255c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/14-19:18:57.494 255c Delete type=2 #177
+2025/03/14-19:18:57.498 255c Delete type=2 #185
+2025/03/14-19:18:57.523 255c Manual compaction at level-1 from '!playlists.sounds!3ZpJX4LTIEN1NEki.Y7Ja8OjMnTspknCR' @ 85 : 1 .. '!playlists.sounds!dCRpKbZH5nubLits.SHGq9n961A5hExqD' @ 0 : 0; will stop at (end)

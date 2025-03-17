@@ -1,7 +1,24 @@
-2025/03/07-11:39:04.643 5cc8 Recovering log #115
-2025/03/07-11:39:04.658 5cc8 Delete type=0 #115
-2025/03/07-11:39:04.661 5cc8 Delete type=3 #113
-2025/03/07-18:10:15.632 67f4 Level-0 table #122: started
-2025/03/07-18:10:15.648 67f4 Level-0 table #122: 2819 bytes OK
-2025/03/07-18:10:15.652 67f4 Delete type=0 #120
-2025/03/07-18:10:15.691 67f4 Manual compaction at level-0 from '!messages!880cKNmMtf3ALZcZ' @ 72057594037927935 : 1 .. '!messages!880cKNmMtf3ALZcZ' @ 0 : 0; will stop at (end)
+2025/03/14-14:02:26.583 3ec4 Recovering log #208
+2025/03/14-14:02:26.584 3ec4 Level-0 table #210: started
+2025/03/14-14:02:26.596 3ec4 Level-0 table #210: 1152 bytes OK
+2025/03/14-14:02:26.612 3ec4 Delete type=0 #208
+2025/03/14-14:02:26.614 3ec4 Delete type=3 #207
+2025/03/14-19:18:57.243 255c Level-0 table #213: started
+2025/03/14-19:18:57.250 255c Level-0 table #213: 10240 bytes OK
+2025/03/14-19:18:57.255 255c Delete type=0 #211
+2025/03/14-19:18:57.307 255c Manual compaction at level-0 from '!messages!0y8fs2Te8ZwPwdhZ' @ 72057594037927935 : 1 .. '!messages!lrg5ekXPzTU0Y3xl' @ 0 : 0; will stop at '!messages!nX1ypgSsN7lP5YoD' @ 284 : 0
+2025/03/14-19:18:57.307 255c Compacting 2@0 + 0@1 files
+2025/03/14-19:18:57.312 255c Generated table #214@0: 32 keys, 7554 bytes
+2025/03/14-19:18:57.313 255c Compacted 2@0 + 0@1 files => 7554 bytes
+2025/03/14-19:18:57.318 255c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/14-19:18:57.319 255c Delete type=2 #210
+2025/03/14-19:18:57.322 255c Delete type=2 #213
+2025/03/14-19:18:57.323 255c Manual compaction at level-0 from '!messages!nX1ypgSsN7lP5YoD' @ 284 : 0 .. '!messages!lrg5ekXPzTU0Y3xl' @ 0 : 0; will stop at (end)
+2025/03/14-19:18:57.323 255c Manual compaction at level-1 from '!messages!0y8fs2Te8ZwPwdhZ' @ 72057594037927935 : 1 .. '!messages!lrg5ekXPzTU0Y3xl' @ 0 : 0; will stop at '!messages!nX1ypgSsN7lP5YoD' @ 284 : 0
+2025/03/14-19:18:57.323 255c Compacting 1@1 + 1@2 files
+2025/03/14-19:18:57.337 255c Generated table #215@1: 18 keys, 7213 bytes
+2025/03/14-19:18:57.337 255c Compacted 1@1 + 1@2 files => 7213 bytes
+2025/03/14-19:18:57.340 255c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/14-19:18:57.341 255c Delete type=2 #206
+2025/03/14-19:18:57.344 255c Delete type=2 #214
+2025/03/14-19:18:57.376 255c Manual compaction at level-1 from '!messages!nX1ypgSsN7lP5YoD' @ 284 : 0 .. '!messages!lrg5ekXPzTU0Y3xl' @ 0 : 0; will stop at (end)
